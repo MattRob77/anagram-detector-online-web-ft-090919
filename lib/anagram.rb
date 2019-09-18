@@ -3,5 +3,7 @@ class Anagram
   attr_accessor :word 
   @@match = []
   @matches = [] 
+  
+  def initalize 
 
 
